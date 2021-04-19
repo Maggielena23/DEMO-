@@ -4,4 +4,8 @@ Text der in einem Abschnitt steht.
 
 ## Abschnitt
 
-Mit nooch merh Text
+Mit noch mehr Text
+
+## Abschnitt
+
+Weiterer Text wurde hinzugefügt von Magdalena
