@@ -20,8 +20,8 @@ Für fetten Text verwenden wir _das ist kursiv_
 **_Das ist kursiv und fett_** zum Vergleich
 
 ## Header 
-# macht man mit alt Gr und 3
-#Header one
-##Header two
-###Header three
-je mehr # desto kleiner wird die Schrift
+(#macht man mit alt Gr und 3)
+# Header one
+## Header two
+### Header three
+(je mehr # desto kleiner wird die Schrift)
