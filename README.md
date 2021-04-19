@@ -25,3 +25,8 @@ Für fetten Text verwenden wir _das ist kursiv_
 ## Header two
 ### Header three
 (je mehr # desto kleiner wird die Schrift)
+
+## Links 
+( [ ] funtioniert Alt Gr und ü und zu istAlt Gr plus)
+Search for it. [visit Google](https://www.google.com)
+
