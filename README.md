@@ -14,4 +14,7 @@ Weiterer Text wurde hinzugefügt von Magdalena
 Für fetten Text verwenden wir _das ist kursiv_
 
 ## Fett 
-**das ist fett** sternchen mit shift 3 *
+**das ist fett** sternchen mit shift 3 
+
+## Kursiv und Fett
+**_Das ist kursiv und fett_**
