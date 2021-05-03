@@ -30,4 +30,4 @@ Für fetten Text verwenden wir _das ist kursiv_
 Search for it. [visit Google](https://www.google.com)
 
 ## Neu
-um etwas neues zu Speichern strg und S, dann bei changes auf + neuer Name zum Speichern undt strg enter--> gespeichert
+um etwas neues zu Speichern strg und S, dann bei changes auf + neuer Name zum Speichern undt strg enter--> gespeichert, dann noch auf Pfeil
