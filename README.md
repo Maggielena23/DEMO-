@@ -20,7 +20,6 @@ Für fetten Text verwenden wir _das ist kursiv_
 **_Das ist kursiv und fett_** zum Vergleich
 
 ## Header 
-(#macht man mit alt Gr und 3)
 # Header one
 ## Header two
 ### Header three
@@ -30,3 +29,4 @@ Für fetten Text verwenden wir _das ist kursiv_
 ( [ ] funtioniert Alt Gr und ü und zu istAlt Gr plus)
 Search for it. [visit Google](https://www.google.com)
 
+## Neu
